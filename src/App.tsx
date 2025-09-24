@@ -11,7 +11,7 @@ import { Play, Plus, Info, Check, Volume2, VolumeX, ChevronRight } from "lucide-
  */
 
 const POSTER_URL =
-  "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=2000&auto=format&fit=crop"; // TODO: paste your hosted photo URL here
+  "https://github.com/crisaroa/netflix-series/blob/98064eae94e4aa4c6fcefdebbc7da2e105fc434d/src/assets/sir-jarvis.png?raw=true"; // TODO: paste your hosted photo URL here
 
 const CONFIG = {
   title: "Jarvis Danao",

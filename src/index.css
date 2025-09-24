@@ -1,6 +1,5 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+/* Tailwind v4 style entry */
+@import "tailwindcss";
 
-/* optional smoothing */
+/* optional smoothing/reset */
 html, body, #root { height: 100%; }
